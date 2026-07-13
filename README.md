@@ -62,8 +62,8 @@ git remote add origin YOUR_GITHUB_REPOSITORY_LINK
 git push -u origin main
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_LINK` with your actual GitHub repository URL.
+Replace `https://github.com/bairaboinakeerthana-create/TODO-list-app` with your actual GitHub repository URL.
 
 ## Author
 
-- Your Name
+- Keerthana Bairaboina
